@@ -13,9 +13,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/dell/Desktop/spring-web-1.2.9.jar/spring-web-1.2.9.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/dell/Desktop/spring-web-2.0.5.jar/spring-web-2.0.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring1"/>
 	<classpathentry kind="lib" path="C:/Documents and Settings/dell/Desktop/S/javax.servlet-3.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
